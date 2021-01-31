@@ -1,4 +1,4 @@
-local BetaUsers = {
+{
     "exeahkrage",
     "fifty"
 }

@@ -1,0 +1,4 @@
+local BetaUsers = {
+    "exeahkrage",
+    "fifty"
+}
